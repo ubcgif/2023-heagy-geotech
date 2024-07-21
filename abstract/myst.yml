@@ -2,7 +2,7 @@ version: 1
 project:
   id: ubcgif-2023-heagy-geotech
   title: A decade of SimPEG connecting research & industry through open-source software
-  description: Talk presented at 2023 Geotech
+  description: Talk presented at the 2023 Geotech symposium 
   authors:
     - name: Lindsey J. Heagy
       email: lheagy@eoas.ubc.ca
