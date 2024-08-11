@@ -36,7 +36,7 @@ site:
   template: article-theme
   actions:
     - title: slides
-      url: abstract/presentation/heagy_2023.pdf
+      url: presentation/heagy_2023.pdf
       static: true
     # - title: slides
     #   url: presentation/SLIDES-NAME.pdf
