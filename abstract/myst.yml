@@ -2,7 +2,7 @@ version: 1
 project:
   id: ubcgif-2023-heagy-geotech
   title: A decade of SimPEG connecting research & industry through open-source software
-  description: Talk presented at the 2023 Geotech symposium 
+  description: Talk presented at the 2023 Geotech symposium
   authors:
     - name: Lindsey J. Heagy
       email: lheagy@eoas.ubc.ca
@@ -15,12 +15,12 @@ project:
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    title: Geotech
+    title: Geotech RoundUp Symposium
     url: http://v-g-s.ca/2023-symposium
   # license: CC-BY-4.0
   # open_access: true
   # doi: DOI
-  date: 2023/01/01
+  date: 2023-01-27
   abbreviations:
     # DC: direct current
     # EM: electromagnetics
