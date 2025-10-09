@@ -1,0 +1,5 @@
+format: jb-book
+root: abstract.md
+chapters:
+  - file: presentation/Geotech-talk-vtem.ipynb
+  - file: presentation/Geotech-ztem-example.ipynb
